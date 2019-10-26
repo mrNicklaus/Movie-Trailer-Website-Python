@@ -1,0 +1,18 @@
+Documentation on naming
+https://google.github.io/styleguide/pyguide.html
+Every class name should start with capital letters **ClassName**
+
+## Its a good idea to separate your class file from your object file
+## A constructor creates space and memory for a new class instance
+*toy_story = media.Movie()*  class = Movie, Instance = toy-story, Module = media, constructor = def __init__
+## def __init__
+Classes random remarks on the 'self'
+https://docs.python.org/2.7/tutorial/classes.html#random-remarks
+## keywords to remember
+Class
+Constructor
+Instance Variables
+Instance Methods
+Instances
+## How to use lists and arrays in Python
+https://docs.python.org/2/tutorial/introduction.html#lists
